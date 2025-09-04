@@ -3,7 +3,7 @@ import random
 from tkinter import messagebox
 import tkinter.messagebox
 
-colors = ['red', 'yellow', 'black', 'white', 'brown', 'blue', 'purple', 'orange','green','pink',]
+colors = ['red', 'yellow', 'black','brown', 'blue', 'purple', 'orange','green','pink',]
 score = 0
 timeleft = 30
 game_started = False
